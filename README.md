@@ -3,9 +3,6 @@
 > Grunt template helper: Rename  
 > Similar to gulp-rename, this helper provides a simple file renaming method.
 
-* TOC
-{:toc}
-
 ## Installation
 
 ```sh
