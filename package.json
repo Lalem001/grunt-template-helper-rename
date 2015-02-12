@@ -1,7 +1,7 @@
 {
   "name": "grunt-template-rename",
   "description": "Adds a template helper `rename` to grunt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Luis Aleman",
     "url": "https://github.com/Lalem001"
