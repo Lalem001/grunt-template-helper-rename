@@ -9,6 +9,8 @@
 $ npm install --save-dev grunt-template-rename
 ```
 
+**Note:** If you are using a task loader like `load-grunt-tasks` or `load-grunt-config`, no further setup is required.
+
 ```js
 // Gruntfile.js
 module.exports = function(grunt) {
