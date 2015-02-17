@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Lalem001/grunt-template-rename",
   "keywords": [
     "grunt",
+    "gruntplugin",
     "template",
     "helper",
     "rename",
